@@ -1,0 +1,13 @@
+{
+  "name": "quila-khansa-agnissa-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Quila Khansa Agnissa - Student Software Engineer SMKN 6 Surakarta",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
